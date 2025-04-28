@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/eb/51/7b/eb517bab653dffea6ad565e2f2d811a6.jpg">
+<img src="./img/banner.png">
 
 ## <img height="32px" src="https://media.tenor.com/U9r4VK8_gOkAAAAj/sunflower-pvz.gif"> Hi, I'm Nick Dexter! 
 
