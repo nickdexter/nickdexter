@@ -8,7 +8,7 @@ Bachelor of ICT student at the [University of Tasmania](https://www.utas.edu.au/
 
 My main hobbies are Gaming and Photography.
 
-### 🛠️Tech Stack
+### <img height="32px" src="./img/magnetshroom.gif">Tech Stack
 **Languages** <br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)&nbsp;
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)&nbsp;
