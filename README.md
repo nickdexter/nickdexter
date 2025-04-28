@@ -1,6 +1,6 @@
 <img src="./img/banner.png">
 
-## <img height="32px" src="https://media.tenor.com/U9r4VK8_gOkAAAAj/sunflower-pvz.gif"> Hi, I'm Nick Dexter! 
+## <img height="32px" src="./img/sunflower.gif"> Hi, I'm Nick Dexter! 
 
 ### <img height="32px" src="https://media.tenor.com/MeOS2A4bMKcAAAAj/peashooter.gif"> A Little About Me...
 
