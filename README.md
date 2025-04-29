@@ -1,6 +1,7 @@
 <img src="./img/banner.png">
 
 ## <img height="32px" src="./img/sunflower.gif"> Hi, I'm Nick Dexter! 
+`Web Developer` `Game Developer`
 
 ### <img height="32px" src="https://media.tenor.com/MeOS2A4bMKcAAAAj/peashooter.gif"> A Little About Me...
 
